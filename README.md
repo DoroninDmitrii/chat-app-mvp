@@ -1,2 +1,2 @@
 Link on project: 
-https://app-chais.herokuapp.com/
+https://chat-application-mvp.netlify.app
